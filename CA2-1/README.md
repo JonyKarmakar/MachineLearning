@@ -1,8 +1,8 @@
-CA2
+# CA2
 
-The CA2 task
+## The CA2 task
 
-In CA2 we will train several basic machine learning algorithms on a new data set using the learned best practices. That means
+### In CA2 we will train several basic machine learning algorithms on a new data set using the learned best practices. That means
 
 a. exploring the data,
 b. basic preprocessing of the data,
